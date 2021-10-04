@@ -1,0 +1,23 @@
+﻿PURE STATISTICS : 
+ Mean = 9.11111111111111
+ Median = 7.0
+ Variance = 18.037037037037038
+ Standard deviation = 4.247003300803643
+ Minimal = 6.333333333333333
+ Maximal = 14.0
+##################################
+
+IRMA (PREDICTION) STATISTICS : 
+ Mean = -2.555555555555556
+ Median = -3.5
+ Variance = 5.0092592592592595
+ Standard deviation = 2.238137453164854
+ Minimal = -4.166666666666667
+ Maximal = 0.0
+##################################
+
+Pour la note Irma : 
+ Négative : sur-évaluation 
+ Positive : sous-évaluation 
+ Nulle : Bonne prédiction 
+ Globalement, si la note est positive et inférieure à 2, la prédiction est 'bonne'
